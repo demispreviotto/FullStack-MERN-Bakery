@@ -1,8 +1,8 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 import recipeService from "./recipeService";
 
-const recipes = JSON.parse(localStorage.getItem('recipes'));
-const recipe = JSON.parse(localStorage.getItem('recipe'));
+const recipes = JSON.parse(localStorage.getItem('recipes')) || [];
+const recipe = JSON.parse(localStorage.getItem('recipe')) || {};
 
 const initialState = {
     recipes: recipes || [],
@@ -32,7 +32,7 @@ export const recipeSlice = createSlice({
     reducers: {},
     extraReducers: (builder) => {
         builder
-            .addCase(getAll.pending, (state, action) => {
+            .addCase(getAll.pending, (state) => {
                 state.status = 'loading';
             })
             .addCase(getAll.fulfilled, (state, action) => {

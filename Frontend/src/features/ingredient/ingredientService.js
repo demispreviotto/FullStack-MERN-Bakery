@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = 'http://localhost:8080/recipes/'
+const API_URL = "http://localhost:8080/ingredients/";
 
 const getAll = async () => {
     const response = await axios.get(API_URL);
@@ -11,9 +11,8 @@ const getById = async (_id) => {
     return response.data;
 }
 
-const recipeService = {
+const ingredientService = {
     getAll,
     getById,
 }
-
-export default recipeService;
+export default ingredientService;

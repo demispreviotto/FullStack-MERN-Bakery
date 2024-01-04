@@ -12,7 +12,7 @@ const Navbar = () => {
             <NavLink to={'/recipes'}>Recipes</NavLink>
             <NavLink to={'/ingredients'}>Ingredients</NavLink>
             {user ?
-                <NavLink to={'/profile'}>Profile</NavLink>
+                <NavLink to={'/profile'}>{user.firstName}</NavLink>
                 :
                 <NavLink to={'/login'}>Login</NavLink>
             }

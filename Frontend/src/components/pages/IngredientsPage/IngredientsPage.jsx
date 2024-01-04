@@ -1,8 +1,7 @@
-// features/ingredient/IngredientList.jsx
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { getAll } from '../../../features/ingredient/ingredientSlice';
-import IngredientCard from '../../components/Ingredient/IngredientCard';
+import IngredientCard from '../../Ingredient/IngredientCard/IngredientCard';
 
 const IngredientList = () => {
     const dispatch = useDispatch();
@@ -10,14 +9,18 @@ const IngredientList = () => {
 
     useEffect(() => {
         dispatch(getAll());
-    }, [dispatch]);
+        console.log(ingredients)
+    }, []);
 
     return (
-        <div className="ingredient-list">
+        <div className="ingredient-list d-flex h-90 fd-col jc-space">
             <h2>Ingredients</h2>
-            {ingredients.map((ingredient) => (
-                <IngredientCard key={ingredient._id} ingredient={ingredient} />
-            ))}
+
+            <div className="container">
+                {ingredients.map((ingredient) => (
+                    <IngredientCard key={ingredient._id} ingredient={ingredient} />
+                ))}
+            </div>
         </div>
     );
 };

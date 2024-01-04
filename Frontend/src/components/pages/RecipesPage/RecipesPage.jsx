@@ -14,6 +14,7 @@ const RecipeList = () => {
     useEffect(() => {
         dispatch(getAll());
     }, []);
+
     const toggleModal = () => {
         setModalOpen(!modalOpen);
     }

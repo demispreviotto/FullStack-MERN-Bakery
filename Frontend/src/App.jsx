@@ -9,7 +9,7 @@ import Register from './components/pages/Register/Register'
 import Profile from './components/pages/Profile/Profile'
 import RecipesPage from './components/pages/RecipesPage/RecipesPage'
 import RecipesDetailPage from './components/pages/RecipesDetailPage/RecipeDetailPage'
-// import IngredientsPage from './components/pages/IngredientsPage/IngredientsPage'
+import IngredientsPage from './components/pages/IngredientsPage/IngredientsPage'
 
 function App() {
 
@@ -24,7 +24,7 @@ function App() {
           <Route path='/profile' element={<Profile />} />
           <Route path='/recipes' element={<RecipesPage />} />
           <Route path='/recipes/:_id' element={<RecipesDetailPage />} />
-          {/* <Route path='/ingredients' element={<IngredientsPage />} /> */}
+          <Route path='/ingredients' element={<IngredientsPage />} />
           <Route path='/cost-list' element={<CostList />} />
           <Route path='/price-list' element={<CostList />} />
         </Routes>

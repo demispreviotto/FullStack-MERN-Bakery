@@ -4,7 +4,7 @@ import './Footer.css'
 
 const Footer = () => {
     return (
-        <div className='container footer'>
+        <div className='footer'>
             <Link to='https://www.linkedin.com/in/demispreviotto/'>Li</Link>
         </div>
     )
