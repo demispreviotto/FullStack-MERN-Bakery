@@ -1,0 +1,13 @@
+.avatar {
+    content: "";
+    display: flex;
+    width: 4em;
+    height: 4em;
+    border-radius: 3em;
+    background-color: var(--clr-txt-2);
+}
+
+.avatar svg {
+    height: 100%;
+    width: 100%;
+}

@@ -1,0 +1,20 @@
+.modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 2em;
+    background-color: var(--clr-bg-1);
+    border: 1px solid gray;
+    border-radius: var(--border-rad-1);
+}
+
+.curtain {
+    position: sticky;
+    width: 100vw;
+    min-height: 100vh;
+    background: rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    bottom: 0;
+}
