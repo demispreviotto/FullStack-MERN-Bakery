@@ -11,7 +11,6 @@ const RecipeDetailPage = () => {
         dispatch(getById(_id))
     }, [])
     const recipe = useSelector((state) => state.recipe.recipe);
-    // const status = useSelector((state) => state.recipe.status)
 
     if (!recipe._id) {
         return <div>Loading...</div>;

@@ -24,6 +24,10 @@ a:hover {
   color: var(--clr-txt-2);
 }
 
+p {
+  text-align: justify;
+}
+
 p a,
 p span {
   color: inherit;

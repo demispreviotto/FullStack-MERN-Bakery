@@ -10,6 +10,7 @@ import Profile from './components/pages/Profile/Profile'
 import RecipesPage from './components/pages/RecipesPage/RecipesPage'
 import RecipesDetailPage from './components/pages/RecipesDetailPage/RecipeDetailPage'
 import IngredientsPage from './components/pages/IngredientsPage/IngredientsPage'
+import IngredientsDetailPage from './components/pages/IngredientsDetailPage/IngredientDetailPage'
 
 function App() {
 
@@ -25,6 +26,7 @@ function App() {
           <Route path='/recipes' element={<RecipesPage />} />
           <Route path='/recipes/:_id' element={<RecipesDetailPage />} />
           <Route path='/ingredients' element={<IngredientsPage />} />
+          <Route path='/ingredients/:_id' element={<IngredientsDetailPage />} />
           <Route path='/cost-list' element={<CostList />} />
           <Route path='/price-list' element={<CostList />} />
         </Routes>

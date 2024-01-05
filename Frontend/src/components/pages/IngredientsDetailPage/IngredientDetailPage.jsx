@@ -1,13 +1,16 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { useParams } from 'react-router-dom';
-import { useSelector } from 'react-redux';
-import IngredientDetail from '../components/Ingredient/IngredientDetail';
+import { useDispatch, useSelector } from 'react-redux';
+import IngredientDetail from '../../Ingredient/IngredientDetail/IngredientDetail';
+import { getById } from '../../../features/ingredient/ingredientSlice';
 
 const IngredientDetailPage = () => {
-    const { id } = useParams();
-    const ingredient = useSelector((state) =>
-        state.ingredient.ingredients.find((ing) => ing._id === id)
-    );
+    const { _id } = useParams();
+    const dispatch = useDispatch()
+    const ingredient = useSelector((state) => state.ingredient.ingredient);
+    useEffect(() => {
+        dispatch(getById(_id))
+    }, [])
 
     if (!ingredient) {
         return <div>Loading...</div>;

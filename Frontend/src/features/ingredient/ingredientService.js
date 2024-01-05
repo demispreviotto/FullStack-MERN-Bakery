@@ -7,7 +7,7 @@ const getAll = async () => {
     return response.data;
 }
 const getById = async (_id) => {
-    const response = await axios.get(API_URL + _id);
+    const response = await axios.get(API_URL + 'id/' + _id);
     return response.data;
 }
 

@@ -1,11 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import './RecipeDetail.css'
 
 const RecipeDetail = ({ recipe }) => {
     const { recipeName, ingredients, instructions, updatedAt, userId, note, type } = recipe;
     return (
         <>
-            <div className="recipe-detail" style={{ textAlign: 'justify' }}>
+            <div className="recipe-detail">
                 <h2>{recipeName}</h2>
                 <p className='author'>By: {userId.firstName}</p>
                 <p className='type'>Type: {type}</p>

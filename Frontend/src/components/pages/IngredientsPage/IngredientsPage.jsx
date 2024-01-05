@@ -9,7 +9,6 @@ const IngredientList = () => {
 
     useEffect(() => {
         dispatch(getAll());
-        console.log(ingredients)
     }, []);
 
     return (

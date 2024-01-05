@@ -52,6 +52,7 @@ export const ingredientSlice = createSlice({
             })
             .addCase(getById.fulfilled, (state, action) => {
                 state.status = 'succeeded'
+                console.log(state, action)
                 state.ingredient = action.payload
             })
     }
