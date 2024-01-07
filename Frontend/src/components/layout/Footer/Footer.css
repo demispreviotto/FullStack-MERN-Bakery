@@ -12,4 +12,5 @@
     flex-wrap: nowrap;
     align-items: center;
     gap: 1em;
+    max-width: 1200px;
 }

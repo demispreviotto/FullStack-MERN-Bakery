@@ -74,7 +74,7 @@ const RecipeController = {
         .populate('userId')
         .populate({
           path: "ingredients.ingredient",
-          select: "product",
+          select: "ingredientName",
         })
       res.send(recipe);
     } catch (error) {

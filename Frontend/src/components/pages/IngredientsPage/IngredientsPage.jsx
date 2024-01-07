@@ -2,6 +2,8 @@ import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { getAll } from '../../../features/ingredient/ingredientSlice';
 import IngredientCard from '../../Ingredient/IngredientCard/IngredientCard';
+import NewIngredient from '../../Ingredient/NewIngredient/NewIngredient';
+import ModalHigher from '../../common/Modal/ModalHigher';
 
 const IngredientList = () => {
     const dispatch = useDispatch();
@@ -12,15 +14,20 @@ const IngredientList = () => {
     }, []);
 
     return (
-        <div className="ingredient-list d-flex h-90 fd-col jc-space">
+        <>
             <h2>Ingredients</h2>
-
-            <div className="container">
-                {ingredients.map((ingredient) => (
-                    <IngredientCard key={ingredient._id} ingredient={ingredient} />
-                ))}
+            <div className="ingredient-list">
+                <div className="container">
+                    {ingredients.map((ingredient) => (
+                        <IngredientCard key={ingredient._id} ingredient={ingredient} />
+                    ))}
+                </div>
             </div>
-        </div>
+            <ModalHigher>
+                <NewIngredient />
+            </ModalHigher>
+
+        </>
     );
 };
 

@@ -3,7 +3,7 @@ const ObjectId = mongoose.SchemaTypes.ObjectId;
 
 const IngredientSchema = new mongoose.Schema(
   {
-    product: {
+    ingredientName: {
       type: String,
       required: [true, "Please, enter a product"],
     },
@@ -22,6 +22,10 @@ const IngredientSchema = new mongoose.Schema(
     presentation: {
       type: Number,
       required: [true, "Please, enter presentation data"],
+    },
+    measure: {
+      type: Number,
+      required: [true, "Please, enter measure"],
     },
     cost: {
       type: Number,

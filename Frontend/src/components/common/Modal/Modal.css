@@ -5,16 +5,37 @@
     transform: translate(-50%, -50%);
     padding: 2em;
     background-color: var(--clr-bg-1);
-    border: 1px solid gray;
+    border: 1px solid var(--border-clr-1);
     border-radius: var(--border-rad-1);
 }
 
 .curtain {
-    position: sticky;
-    width: 100vw;
-    min-height: 100vh;
+    position: absolute;
+    width: 100%;
+    min-height: 100%;
     background: rgba(0, 0, 0, 0.2);
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(5px);
     bottom: 0;
+    z-index: 99;
+    left: 0;
+}
+
+.new-item-btn {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    align-items: center;
+    left: 85%;
+    bottom: 5%;
+    height: 1.5em;
+    width: 1.5em;
+    border-radius: 2em;
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+}
+
+.new-item-btn span {
+    transform: translateY(-10%);
 }

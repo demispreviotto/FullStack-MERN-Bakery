@@ -13,7 +13,7 @@ const RecipeDetail = ({ recipe }) => {
                 <div className="ingredients">
                     <h3>Ingredients:</h3>
                     <ul style={{ listStyle: "none" }}>
-                        {ingredients.map((ingredient) => <li key={ingredient._id}>{ingredient.ingredient.product} {ingredient.qty}</li>)}
+                        {ingredients.map((ingredient) => <li key={ingredient._id}>{ingredient.ingredient.ingredientName} {ingredient.qty}</li>)}
                     </ul>
                 </div>
                 <h3 className='instructions'>Instructions: </h3>

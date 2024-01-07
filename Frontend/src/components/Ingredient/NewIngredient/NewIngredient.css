@@ -1,0 +1,8 @@
+.input-group {
+    display: flex;
+    flex-direction: row;
+}
+
+.input-group input {
+    width: auto;
+}

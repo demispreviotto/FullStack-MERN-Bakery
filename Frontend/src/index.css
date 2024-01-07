@@ -12,6 +12,8 @@
   --border-rad-1: 12px;
   --border-rad-2: 8px;
   --border-rad-3: 30px;
+  --border-clr-1: transparent;
+  --border-th-1: #dededf11;
   line-height: 1.5;
   font-weight: 400;
 

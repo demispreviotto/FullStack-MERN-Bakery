@@ -18,18 +18,20 @@ function App() {
     <>
       <Router>
         <Header />
-        <Routes>
-          <Route path='/' element={<Home />} />
-          <Route path='/login' element={<Login />} />
-          <Route path='/register' element={<Register />} />
-          <Route path='/profile' element={<Profile />} />
-          <Route path='/recipes' element={<RecipesPage />} />
-          <Route path='/recipes/:_id' element={<RecipesDetailPage />} />
-          <Route path='/ingredients' element={<IngredientsPage />} />
-          <Route path='/ingredients/:_id' element={<IngredientsDetailPage />} />
-          <Route path='/cost-list' element={<CostList />} />
-          <Route path='/price-list' element={<CostList />} />
-        </Routes>
+        <main>
+          <Routes>
+            <Route path='/' element={<Home />} />
+            <Route path='/login' element={<Login />} />
+            <Route path='/register' element={<Register />} />
+            <Route path='/profile' element={<Profile />} />
+            <Route path='/recipes' element={<RecipesPage />} />
+            <Route path='/recipes/:_id' element={<RecipesDetailPage />} />
+            <Route path='/ingredients' element={<IngredientsPage />} />
+            <Route path='/ingredients/:_id' element={<IngredientsDetailPage />} />
+            <Route path='/cost-list' element={<CostList />} />
+            <Route path='/price-list' element={<CostList />} />
+          </Routes>
+        </main>
         <Footer />
       </Router>
     </>

@@ -46,7 +46,6 @@ export const authSlice = createSlice({
                 state.status = 'loading';
             })
             .addCase(getLoggedUser.fulfilled, (state, action) => {
-                console.log(action.payload)
                 state.userRecipes = action.payload.recipeIds;
                 state.status = 'succeeded';
                 state.message = action.payload.message;

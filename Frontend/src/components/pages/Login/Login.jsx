@@ -17,7 +17,6 @@ const Login = () => {
     useEffect(() => {
         if (status && status === 'succeeded') {
             setIsSubmitting(false)
-            // setData(initialValue)
             navigate('/')
         }
 

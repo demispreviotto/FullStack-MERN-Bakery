@@ -20,13 +20,13 @@ caption {
 }
 
 th {
-    border: 1px solid #dededf11;
+    border: 1px solid var(--border-th-1);
     background-color: #eceff110;
     padding: 5px;
 }
 
 td {
-    border: 1px solid #dededf11;
+    border: 1px solid var(--border-th-1);
     padding: 5px;
 }
 

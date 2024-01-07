@@ -10,7 +10,6 @@ const Profile = () => {
     const dispatch = useDispatch();
     useEffect(() => {
         dispatch(getLoggedUser())
-        // console.log(user)
     }, [])
     return (
         <div className='container'>
