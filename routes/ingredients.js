@@ -8,7 +8,7 @@ router.post("/", authentication, IngredientController.create);
 router.put("/:_id", authentication, IngredientController.update);
 router.delete("/:_id", authentication, IngredientController.delete);
 router.get("/", IngredientController.getAll);
-router.get("/id/:_id", IngredientController.getById);
-router.get("/name/:product", IngredientController.getByName);
+router.get("/id/:_id", authentication, IngredientController.getById);
+router.get("/name/:product", authentication, IngredientController.getByName);
 
 module.exports = router;

@@ -1,0 +1,530 @@
+[
+  {
+    "carrot cake": [
+      {
+        "Insumos": "Harina integral",
+        "Cant": "3 taza",
+        "Cant (gr)": 450,
+        "Costo(gr)": "0,35",
+        "Costo": "157,50",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Harina 000",
+        "Cant": "2 tazas",
+        "Cant (gr)": 300,
+        "Costo(gr)": "0,24",
+        "Costo": "72,00",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Azucar Blanca",
+        "Cant": "2 taza",
+        "Cant (gr)": 360,
+        "Costo(gr)": "0,52",
+        "Costo": "187,20",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Azucar mascabo",
+        "Cant": "2 taza",
+        "Cant (gr)": 400,
+        "Costo(gr)": "0,87",
+        "Costo": "348,00",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Aceite",
+        "Cant": "1 y 1/\" taza",
+        "Cant (gr)": 270,
+        "Costo(gr)": "1,00",
+        "Costo": "270,00",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Zanahoria",
+        "Cant": "4 tazas",
+        "Cant (gr)": 600,
+        "Costo(gr)": "2,73",
+        "Costo": "1638,00",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Naranja",
+        "Cant": 2,
+        "Cant (gr)": 450,
+        "Costo(gr)": "0,59",
+        "Costo": "265,50",
+        "Notas": "c/u 225"
+      },
+      {
+        "Insumos": "Manzana",
+        "Cant": "2 u",
+        "Cant (gr)": 500,
+        "Costo(gr)": "0,85",
+        "Costo": "425,00",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Aceite",
+        "Cant": "",
+        "Cant (gr)": 10,
+        "Costo(gr)": "1,00",
+        "Costo": "10,00",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Bicarbonato",
+        "Cant": "2 cdita",
+        "Cant (gr)": 10,
+        "Costo(gr)": "1,00",
+        "Costo": "10,04",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Polvo de hornear",
+        "Cant": "3cditas",
+        "Cant (gr)": 15,
+        "Costo(gr)": "1,68",
+        "Costo": "25,25",
+        "Notas": 75
+      },
+      {
+        "Insumos": "Vainilla.",
+        "Cant": "cda.",
+        "Cant (gr)": 10,
+        "Costo(gr)": "0,59",
+        "Costo": "5,85",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Nueces",
+        "Cant": "",
+        "Cant (gr)": 200,
+        "Costo(gr)": "2,67",
+        "Costo": "534,80",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Huevos",
+        "Cant": "",
+        "Cant (gr)": 8,
+        "Costo(gr)": "46,33",
+        "Costo": "370,67",
+        "Notas": ""
+      },
+      {
+        "Insumos": "etiquetas adesivas 5.5",
+        "Cant": 1,
+        "Cant (gr)": 1,
+        "Costo(gr)": "29,64",
+        "Costo": "29,64",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Bolsas b chico (15x35)",
+        "Cant": 1,
+        "Cant (gr)": 1,
+        "Costo(gr)": "2,50",
+        "Costo": "2,50",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Molde budin 500 grs.",
+        "Cant": 1,
+        "Cant (gr)": 1,
+        "Costo(gr)": "60,00",
+        "Costo": "60,00",
+        "Notas": ""
+      }
+    ]
+  },
+  {
+    "budin de peras y chocolate": [
+      {
+        "Insumos": "Harina integral",
+        "Cant": "1T 1/2",
+        "Cant (gr)": 225,
+        "Costo(gr)": "0,35",
+        "Costo": "78,75",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Harina 000",
+        "Cant": "1T",
+        "Cant (gr)": 150,
+        "Costo(gr)": "0,24",
+        "Costo": "36,00",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Azucar Blanca",
+        "Cant": "1 T",
+        "Cant (gr)": 180,
+        "Costo(gr)": "0,52",
+        "Costo": "93,60",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Azucar mascabo",
+        "Cant": "1 T",
+        "Cant (gr)": 200,
+        "Costo(gr)": "0,87",
+        "Costo": "174,00",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Cacao amargo",
+        "Cant": "6 CDAS",
+        "Cant (gr)": 60,
+        "Costo(gr)": "2,69",
+        "Costo": "161,58",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Aceite",
+        "Cant": "1/2 T",
+        "Cant (gr)": 90,
+        "Costo(gr)": "1,00",
+        "Costo": "90,00",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Pera",
+        "Cant": "1 EN CUBITOS",
+        "Cant (gr)": 100,
+        "Costo(gr)": "0,40",
+        "Costo": "40,00",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Pera",
+        "Cant": 2,
+        "Cant (gr)": 200,
+        "Costo(gr)": "0,40",
+        "Costo": "80,00",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Huevos",
+        "Cant": "",
+        "Cant (gr)": 4,
+        "Costo(gr)": "46,33",
+        "Costo": "185,33",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Bicarbonato",
+        "Cant": "1CDITA",
+        "Cant (gr)": 5,
+        "Costo(gr)": "1,00",
+        "Costo": "5,02",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Polvo de hornear",
+        "Cant": "2CDTA",
+        "Cant (gr)": 10,
+        "Costo(gr)": "1,68",
+        "Costo": "16,83",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Vainilla.",
+        "Cant": "",
+        "Cant (gr)": 10,
+        "Costo(gr)": "0,59",
+        "Costo": "5,85",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Chocolate",
+        "Cant": "",
+        "Cant (gr)": 120,
+        "Costo(gr)": "2,42",
+        "Costo": "289,92",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Mix semillas",
+        "Cant": "",
+        "Cant (gr)": 20,
+        "Costo(gr)": "0,69",
+        "Costo": "13,74",
+        "Notas": ""
+      },
+      {
+        "Insumos": "etiquetas adesivas 5.5",
+        "Cant": 1,
+        "Cant (gr)": 1,
+        "Costo(gr)": "29,64",
+        "Costo": "29,64",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Bolsas b chico (15x35)",
+        "Cant": 1,
+        "Cant (gr)": 1,
+        "Costo(gr)": "2,50",
+        "Costo": "2,50",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Molde budin 300 grs",
+        "Cant": 1,
+        "Cant (gr)": 1,
+        "Costo(gr)": "40,00",
+        "Costo": "40,00",
+        "Notas": ""
+      }
+    ]
+  },
+  {
+    "banana con almendras": [
+      {
+        "Insumos": "Harina integral",
+        "Cant": "1 Y 1/2",
+        "Cant (gr)": 225,
+        "Costo(gr)": "0,35",
+        "Costo": "78,75",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Harina 000",
+        "Cant": "1T",
+        "Cant (gr)": 150,
+        "Costo(gr)": "0,24",
+        "Costo": "36,00",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Azucar Blanca",
+        "Cant": "1 T",
+        "Cant (gr)": 180,
+        "Costo(gr)": "0,52",
+        "Costo": "93,60",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Azucar mascabo",
+        "Cant": "1 T",
+        "Cant (gr)": 200,
+        "Costo(gr)": "0,87",
+        "Costo": "174,00",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Aceite",
+        "Cant": "1/2 T",
+        "Cant (gr)": 180,
+        "Costo(gr)": "1,00",
+        "Costo": "180,00",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Banana",
+        "Cant": "4UNIDADES",
+        "Cant (gr)": 400,
+        "Costo(gr)": "0,60",
+        "Costo": "240,00",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Huevos",
+        "Cant": "",
+        "Cant (gr)": 4,
+        "Costo(gr)": "46,33",
+        "Costo": "185,33",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Bicarbonato",
+        "Cant": "1CDITA",
+        "Cant (gr)": 5,
+        "Costo(gr)": "1,00",
+        "Costo": "5,02",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Polvo de hornear",
+        "Cant": "2CDTA",
+        "Cant (gr)": 10,
+        "Costo(gr)": "1,68",
+        "Costo": "16,83",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Vainilla.",
+        "Cant": "",
+        "Cant (gr)": 10,
+        "Costo(gr)": "0,59",
+        "Costo": "5,85",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Almendras",
+        "Cant": "",
+        "Cant (gr)": 140,
+        "Costo(gr)": "5,24",
+        "Costo": "732,90",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Mix semillas",
+        "Cant": "",
+        "Cant (gr)": 30,
+        "Costo(gr)": "0,69",
+        "Costo": "20,61",
+        "Notas": ""
+      },
+      {
+        "Insumos": "etiquetas adesivas 5.5",
+        "Cant": 1,
+        "Cant (gr)": 1,
+        "Costo(gr)": "29,64",
+        "Costo": "29,64",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Bolsas b chico (15x35)",
+        "Cant": 1,
+        "Cant (gr)": 1,
+        "Costo(gr)": "2,50",
+        "Costo": "2,50",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Molde budin 300 grs",
+        "Cant": 1,
+        "Cant (gr)": 1,
+        "Costo(gr)": "40,00",
+        "Costo": "40,00",
+        "Notas": ""
+      }
+    ]
+  },
+  {
+    "avena y arandanos": [
+      {
+        "Insumos": "Harina integral",
+        "Cant": "",
+        "Cant (gr)": 210,
+        "Costo(gr)": "0,35",
+        "Costo": "73,50",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Azucar Blanca",
+        "Cant": "1/2 T",
+        "Cant (gr)": 90,
+        "Costo(gr)": "0,52",
+        "Costo": "46,80",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Azucar mascabo",
+        "Cant": "1/2 T",
+        "Cant (gr)": 90,
+        "Costo(gr)": "0,87",
+        "Costo": "78,30",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Aceite",
+        "Cant": "1/2 T",
+        "Cant (gr)": 180,
+        "Costo(gr)": "1,00",
+        "Costo": "180,00",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Avena",
+        "Cant": "",
+        "Cant (gr)": 150,
+        "Costo(gr)": "1,12",
+        "Costo": "167,50",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Leche",
+        "Cant": "",
+        "Cant (gr)": 250,
+        "Costo(gr)": "0,25",
+        "Costo": "62,50",
+        "Notas": "c/u 225"
+      },
+      {
+        "Insumos": "Arandanos congelados",
+        "Cant": "",
+        "Cant (gr)": 100,
+        "Costo(gr)": "2,64",
+        "Costo": "264,00",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Chocolate",
+        "Cant": "",
+        "Cant (gr)": 80,
+        "Costo(gr)": "2,42",
+        "Costo": "193,28",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Bicarbonato",
+        "Cant": "1 cdita",
+        "Cant (gr)": 5,
+        "Costo(gr)": "1,00",
+        "Costo": "5,02",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Polvo de hornear",
+        "Cant": "2cditas",
+        "Cant (gr)": 10,
+        "Costo(gr)": "1,68",
+        "Costo": "16,83",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Vainilla.",
+        "Cant": "cda.",
+        "Cant (gr)": 10,
+        "Costo(gr)": "0,59",
+        "Costo": "5,85",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Huevos",
+        "Cant": "",
+        "Cant (gr)": 2,
+        "Costo(gr)": "46,33",
+        "Costo": "92,67",
+        "Notas": ""
+      },
+      {
+        "Insumos": "etiquetas adesivas 5.5",
+        "Cant": 1,
+        "Cant (gr)": 1,
+        "Costo(gr)": "29,64",
+        "Costo": "29,64",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Bolsas b chico (15x35)",
+        "Cant": 1,
+        "Cant (gr)": 1,
+        "Costo(gr)": "2,50",
+        "Costo": "2,50",
+        "Notas": ""
+      },
+      {
+        "Insumos": "Molde budin 300 grs",
+        "Cant": 1,
+        "Cant (gr)": 1,
+        "Costo(gr)": "40,00",
+        "Costo": "40,00",
+        "Notas": ""
+      }
+    ]
+  }
+]

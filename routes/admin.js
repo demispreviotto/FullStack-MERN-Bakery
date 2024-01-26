@@ -7,5 +7,6 @@ const { authentication, isAdmin } = require("../middleware/authentication");
 router.post("/createIngredientsFromJson", authentication, isAdmin, AdminController.createIngredientsFromJson);
 router.delete("/deleteAllIngredients", authentication, isAdmin, AdminController.deleteAllIngredients);
 router.delete("/deleteAllRecipes", authentication, isAdmin, AdminController.deleteAllRecipes);
+router.post("/organizeRecipes", AdminController.organizeRecipes);
 
 module.exports = router;

@@ -64,5 +64,23 @@ const AdminController = {
             res.status(500).send({ message: "Error deleting Recipes" });
         }
     },
+    async organizeRecipes(req, res) {
+        try {
+            const recipesDataJson = require("../data/recipesData.json");
+            const organizedRecipes = {};
+            recipesDataJson.forEach((recipe) => {
+                const recipeName = recipe.recipeName.toLowerCase();
+                if (!organizedRecipes[recipeName]) {
+                    organizedRecipes[recipeName] = [];
+                }
+                const organizedRecipe = { ...recipe };
+                delete organizedRecipe.recipeName;
+                organizedRecipes[recipeName].push(organizedRecipe);
+            });
+            res.status(300).send({ message: "Organized Recipes: ", organizedRecipes });
+        } catch (error) {
+            res.status(500).send({ message: "Something went wrong ", error });
+        }
+    },
 }
 module.exports = AdminController;
