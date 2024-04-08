@@ -300,22 +300,22 @@
     "note": ""
   },
   {
-    "ingredientName": "whole wheat flour don paisa",
+    "ingredientName": "whole wheat flour",
     "type": "dry",
     "provider": "",
-    "brand": "",
+    "brand": "don paisa",
     "presentation": "",
     "measure": "",
     "cost": "",
     "note": ""
   },
   {
-    "ingredientName": "flour 000",
+    "ingredientName": "all-purpose flour",
     "type": "dry",
     "provider": "barce",
     "brand": "",
     "presentation": 5000,
-    "measure": "",
+    "measure": "gr",
     "cost": 1200,
     "note": ""
   },
@@ -325,7 +325,7 @@
     "provider": "granger",
     "brand": "",
     "presentation": "",
-    "measure": "",
+    "measure": "gr",
     "cost": "",
     "note": ""
   },
@@ -335,7 +335,7 @@
     "provider": "",
     "brand": "",
     "presentation": 1000,
-    "measure": "",
+    "measure": "gr",
     "cost": 350,
     "note": ""
   },
@@ -345,7 +345,7 @@
     "provider": "",
     "brand": "",
     "presentation": 30,
-    "measure": "",
+    "measure": "gr",
     "cost": 1390,
     "note": ""
   },
@@ -355,7 +355,7 @@
     "provider": "",
     "brand": "",
     "presentation": 1000,
-    "measure": "",
+    "measure": "ml",
     "cost": 250,
     "note": ""
   },
@@ -529,96 +529,94 @@
     "cost": 1151,
     "note": ""
   },
-  [
-    {
-      "ingredientName": "Pear",
-      "type": "Vegetables",
-      "provider": "1x210g",
-      "brand": "",
-      "presentation": 1000,
-      "measure": "",
-      "cost": 400,
-      "note": ""
-    },
-    {
-      "ingredientName": "Baking Powder",
-      "type": "Dry Goods",
-      "provider": "Goipat",
-      "brand": "",
-      "presentation": 1000,
-      "measure": "",
-      "cost": 1683,
-      "note": ""
-    },
-    {
-      "ingredientName": "Hinge Pot",
-      "type": "Packaging",
-      "provider": "Cecy Pack",
-      "brand": "",
-      "presentation": null,
-      "measure": "",
-      "cost": null,
-      "note": ""
-    },
-    {
-      "ingredientName": "Casancrem Light Cream Cheese",
-      "type": "Dairy",
-      "provider": "Hiper",
-      "brand": "",
-      "presentation": null,
-      "measure": "",
-      "cost": null,
-      "note": ""
-    },
-    {
-      "ingredientName": "Pumpkin Seeds",
-      "type": "Nuts",
-      "provider": "",
-      "brand": "",
-      "presentation": 1000,
-      "measure": "",
-      "cost": 5146,
-      "note": ""
-    },
-    {
-      "ingredientName": "Chia Seeds",
-      "type": "Nuts",
-      "provider": "",
-      "brand": "",
-      "presentation": 1000,
-      "measure": "",
-      "cost": 1484,
-      "note": ""
-    },
-    {
-      "ingredientName": "Vanilla",
-      "type": "Dry Goods",
-      "provider": "",
-      "brand": "",
-      "presentation": 1000,
-      "measure": "",
-      "cost": 585,
-      "note": ""
-    },
-    {
-      "ingredientName": "Carrot",
-      "type": "Vegetables",
-      "provider": "",
-      "brand": "",
-      "presentation": 2000,
-      "measure": "",
-      "cost": 400,
-      "note": ""
-    },
-    {
-      "ingredientName": "Almond Flour",
-      "type": "Dry Goods",
-      "provider": "Placeres",
-      "brand": "",
-      "presentation": 1000,
-      "measure": "",
-      "cost": 2730,
-      "note": ""
-    }
-  ]
+  {
+    "ingredientName": "Pear",
+    "type": "Vegetables",
+    "provider": "1x210g",
+    "brand": "",
+    "presentation": 1000,
+    "measure": "",
+    "cost": 400,
+    "note": ""
+  },
+  {
+    "ingredientName": "Baking Powder",
+    "type": "Dry Goods",
+    "provider": "Goipat",
+    "brand": "",
+    "presentation": 1000,
+    "measure": "",
+    "cost": 1683,
+    "note": ""
+  },
+  {
+    "ingredientName": "Hinge Pot",
+    "type": "Packaging",
+    "provider": "Cecy Pack",
+    "brand": "",
+    "presentation": null,
+    "measure": "",
+    "cost": null,
+    "note": ""
+  },
+  {
+    "ingredientName": "casancrem light cream Cheese",
+    "type": "dairy",
+    "provider": "hiper",
+    "brand": "",
+    "presentation": null,
+    "measure": "",
+    "cost": null,
+    "note": ""
+  },
+  {
+    "ingredientName": "pumpkin seeds",
+    "type": "nuts",
+    "provider": "",
+    "brand": "",
+    "presentation": 1000,
+    "measure": "",
+    "cost": 5146,
+    "note": ""
+  },
+  {
+    "ingredientName": "chia seeds",
+    "type": "nuts",
+    "provider": "",
+    "brand": "",
+    "presentation": 1000,
+    "measure": "",
+    "cost": 1484,
+    "note": ""
+  },
+  {
+    "ingredientName": "vanilla",
+    "type": "dry goods",
+    "provider": "",
+    "brand": "",
+    "presentation": 1000,
+    "measure": "",
+    "cost": 585,
+    "note": ""
+  },
+  {
+    "ingredientName": "carrots",
+    "type": "vegetables",
+    "provider": "",
+    "brand": "",
+    "presentation": 2000,
+    "measure": "",
+    "cost": 400,
+    "note": ""
+  },
+  {
+    "ingredientName": "almond flour",
+    "type": "dry goods",
+    "provider": "placeres",
+    "brand": "",
+    "presentation": 1000,
+    "measure": "",
+    "cost": 2730,
+    "note": ""
+  }
 ]

@@ -3,104 +3,104 @@
         "carrot cake": [
             {
                 "ingredientName": "whole wheat flour",
-                "qty": "3 cups",
-                "qty (gr)": 450,
+                "volume": "3 cups",
+                "weight": 450,
                 "notes": ""
             },
             {
                 "ingredientName": "all-purpose flour",
-                "qty": "2 cups",
-                "qty (gr)": 300,
+                "volume": "2 cups",
+                "weight": 300,
                 "notes": ""
             },
             {
                 "ingredientName": "white sugar",
-                "qty": "2 cups",
-                "qty (gr)": 360,
+                "volume": "2 cups",
+                "weight": 360,
                 "notes": ""
             },
             {
                 "ingredientName": "brown sugar",
-                "qty": "2 cups",
-                "qty (gr)": 400,
+                "volume": "2 cups",
+                "weight": 400,
                 "notes": ""
             },
             {
                 "ingredientName": "oil",
-                "qty": "1 and 1/2 cups",
-                "qty (gr)": 270,
+                "volume": "1 and 1/2 cups",
+                "weight": 270,
                 "notes": ""
             },
             {
                 "ingredientName": "carrots",
-                "qty": "4 cups",
-                "qty (gr)": 600,
+                "volume": "4 cups",
+                "weight": 600,
                 "notes": ""
             },
             {
                 "ingredientName": "orange",
-                "qty": 2,
-                "qty (gr)": 450,
+                "volume": 2,
+                "weight": 450,
                 "notes": "each 225"
             },
             {
                 "ingredientName": "apple",
-                "qty": "2 units",
-                "qty (gr)": 500,
+                "volume": "2 units",
+                "weight": 500,
                 "notes": ""
             },
             {
                 "ingredientName": "oil",
-                "qty": "",
-                "qty (gr)": 10,
+                "volume": "",
+                "weight": 10,
                 "notes": ""
             },
             {
                 "ingredientName": "baking soda",
-                "qty": "2 tsp",
-                "qty (gr)": 10,
+                "volume": "2 tsp",
+                "weight": 10,
                 "notes": ""
             },
             {
                 "ingredientName": "baking powder",
-                "qty": "3 tsp",
-                "qty (gr)": 15,
+                "volume": "3 tsp",
+                "weight": 15,
                 "notes": "75"
             },
             {
                 "ingredientName": "vanilla.",
-                "qty": "tbsp.",
-                "qty (gr)": 10,
+                "volume": "tbsp.",
+                "weight": 10,
                 "notes": ""
             },
             {
                 "ingredientName": "walnuts",
-                "qty": "",
-                "qty (gr)": 200,
+                "volume": "",
+                "weight": 200,
                 "notes": ""
             },
             {
                 "ingredientName": "eggs",
-                "qty": "",
-                "qty (gr)": 8,
+                "volume": "",
+                "weight": 8,
                 "notes": ""
             },
             {
                 "ingredientName": "adhesive labels 5.5",
-                "qty": 1,
-                "qty (gr)": 1,
+                "volume": 1,
+                "weight": 1,
                 "notes": ""
             },
             {
                 "ingredientName": "small bags (15x35)",
-                "qty": 1,
-                "qty (gr)": 1,
+                "volume": 1,
+                "weight": 1,
                 "notes": ""
             },
             {
                 "ingredientName": "500g loaf pan",
-                "qty": 1,
-                "qty (gr)": 1,
+                "volume": 1,
+                "weight": 1,
                 "notes": ""
             }
         ]
@@ -109,104 +109,104 @@
         "pear and chocolate loaf": [
             {
                 "ingredientName": "whole wheat flour",
-                "qty": "1 and 1/2 cups",
-                "qty (gr)": 225,
+                "volume": "1 and 1/2 cups",
+                "weight": 225,
                 "notes": ""
             },
             {
                 "ingredientName": "all-purpose flour",
-                "qty": "1 cup",
-                "qty (gr)": 150,
+                "volume": "1 cup",
+                "weight": 150,
                 "notes": ""
             },
             {
                 "ingredientName": "white sugar",
-                "qty": "1 cup",
-                "qty (gr)": 180,
+                "volume": "1 cup",
+                "weight": 180,
                 "notes": ""
             },
             {
                 "ingredientName": "brown sugar",
-                "qty": "1 cup",
-                "qty (gr)": 200,
+                "volume": "1 cup",
+                "weight": 200,
                 "notes": ""
             },
             {
                 "ingredientName": "cocoa powder",
-                "qty": "6 tbsp",
-                "qty (gr)": 60,
+                "volume": "6 tbsp",
+                "weight": 60,
                 "notes": ""
             },
             {
                 "ingredientName": "oil",
-                "qty": "1/2 cup",
-                "qty (gr)": 90,
+                "volume": "1/2 cup",
+                "weight": 90,
                 "notes": ""
             },
             {
                 "ingredientName": "pear",
-                "qty": "1 in cubes",
-                "qty (gr)": 100,
+                "volume": "1 in cubes",
+                "weight": 100,
                 "notes": ""
             },
             {
                 "ingredientName": "pear",
-                "qty": "2",
-                "qty (gr)": 200,
+                "volume": "2",
+                "weight": 200,
                 "notes": ""
             },
             {
                 "ingredientName": "eggs",
-                "qty": "",
-                "qty (gr)": 4,
+                "volume": "",
+                "weight": 4,
                 "notes": ""
             },
             {
                 "ingredientName": "baking soda",
-                "qty": "1 tsp",
-                "qty (gr)": 5,
+                "volume": "1 tsp",
+                "weight": 5,
                 "notes": ""
             },
             {
                 "ingredientName": "baking powder",
-                "qty": "2 tsp",
-                "qty (gr)": 10,
+                "volume": "2 tsp",
+                "weight": 10,
                 "notes": ""
             },
             {
                 "ingredientName": "vanilla.",
-                "qty": "",
-                "qty (gr)": 10,
+                "volume": "",
+                "weight": 10,
                 "notes": ""
             },
             {
                 "ingredientName": "chocolate",
-                "qty": "",
-                "qty (gr)": 120,
+                "volume": "",
+                "weight": 120,
                 "notes": ""
             },
             {
                 "ingredientName": "seed mix",
-                "qty": "",
-                "qty (gr)": 20,
+                "volume": "",
+                "weight": 20,
                 "notes": ""
             },
             {
                 "ingredientName": "adhesive labels 5.5",
-                "qty": 1,
-                "qty (gr)": 1,
+                "volume": 1,
+                "weight": 1,
                 "notes": ""
             },
             {
                 "ingredientName": "small bags (15x35)",
-                "qty": 1,
-                "qty (gr)": 1,
+                "volume": 1,
+                "weight": 1,
                 "notes": ""
             },
             {
                 "ingredientName": "300g loaf pan",
-                "qty": 1,
-                "qty (gr)": 1,
+                "volume": 1,
+                "weight": 1,
                 "notes": ""
             }
         ]
@@ -215,92 +215,92 @@
         "banana with almonds": [
             {
                 "ingredientName": "whole wheat flour",
-                "qty": "1 and 1/2 cups",
-                "qty (gr)": 225,
+                "volume": "1 and 1/2 cups",
+                "weight": 225,
                 "notes": ""
             },
             {
                 "ingredientName": "all-purpose flour",
-                "qty": "1 cup",
-                "qty (gr)": 150,
+                "volume": "1 cup",
+                "weight": 150,
                 "notes": ""
             },
             {
                 "ingredientName": "white sugar",
-                "qty": "1 cup",
-                "qty (gr)": 180,
+                "volume": "1 cup",
+                "weight": 180,
                 "notes": ""
             },
             {
                 "ingredientName": "brown sugar",
-                "qty": "1 cup",
-                "qty (gr)": 200,
+                "volume": "1 cup",
+                "weight": 200,
                 "notes": ""
             },
             {
                 "ingredientName": "oil",
-                "qty": "1/2 cup",
-                "qty (gr)": 180,
+                "volume": "1/2 cup",
+                "weight": 180,
                 "notes": ""
             },
             {
                 "ingredientName": "banana",
-                "qty": "4 units",
-                "qty (gr)": 400,
+                "volume": "4 units",
+                "weight": 400,
                 "notes": ""
             },
             {
                 "ingredientName": "eggs",
-                "qty": "",
-                "qty (gr)": 4,
+                "volume": "",
+                "weight": 4,
                 "notes": ""
             },
             {
                 "ingredientName": "baking soda",
-                "qty": "1 tsp",
-                "qty (gr)": 5,
+                "volume": "1 tsp",
+                "weight": 5,
                 "notes": ""
             },
             {
                 "ingredientName": "baking powder",
-                "qty": "2 tsp",
-                "qty (gr)": 10,
+                "volume": "2 tsp",
+                "weight": 10,
                 "notes": ""
             },
             {
                 "ingredientName": "vanilla.",
-                "qty": "",
-                "qty (gr)": 10,
+                "volume": "",
+                "weight": 10,
                 "notes": ""
             },
             {
                 "ingredientName": "almonds",
-                "qty": "",
-                "qty (gr)": 140,
+                "volume": "",
+                "weight": 140,
                 "notes": ""
             },
             {
                 "ingredientName": "seed mix",
-                "qty": "",
-                "qty (gr)": 30,
+                "volume": "",
+                "weight": 30,
                 "notes": ""
             },
             {
                 "ingredientName": "adhesive labels 5.5",
-                "qty": 1,
-                "qty (gr)": 1,
+                "volume": 1,
+                "weight": 1,
                 "notes": ""
             },
             {
                 "ingredientName": "small bags (15x35)",
-                "qty": 1,
-                "qty (gr)": 1,
+                "volume": 1,
+                "weight": 1,
                 "notes": ""
             },
             {
                 "ingredientName": "300g loaf pan",
-                "qty": 1,
-                "qty (gr)": 1,
+                "volume": 1,
+                "weight": 1,
                 "notes": ""
             }
         ]
@@ -309,80 +309,80 @@
         "oats and blueberries": [
             {
                 "ingredientName": "oats",
-                "qty": "2 cups",
-                "qty (gr)": 200,
+                "volume": "2 cups",
+                "weight": 200,
                 "notes": ""
             },
             {
                 "ingredientName": "almond milk",
-                "qty": "2 cups",
-                "qty (gr)": 480,
+                "volume": "2 cups",
+                "weight": 480,
                 "notes": ""
             },
             {
                 "ingredientName": "blueberries",
-                "qty": "1 cup",
-                "qty (gr)": 150,
+                "volume": "1 cup",
+                "weight": 150,
                 "notes": ""
             },
             {
                 "ingredientName": "chia seeds",
-                "qty": "2 tbsp",
-                "qty (gr)": 20,
+                "volume": "2 tbsp",
+                "weight": 20,
                 "notes": ""
             },
             {
                 "ingredientName": "honey",
-                "qty": "2 tbsp",
-                "qty (gr)": 42,
+                "volume": "2 tbsp",
+                "weight": 42,
                 "notes": ""
             },
             {
                 "ingredientName": "vanilla extract",
-                "qty": "1 tsp",
-                "qty (gr)": 5,
+                "volume": "1 tsp",
+                "weight": 5,
                 "notes": ""
             },
             {
                 "ingredientName": "salt",
-                "qty": "1 pinch",
-                "qty (gr)": 1,
+                "volume": "1 pinch",
+                "weight": 1,
                 "notes": ""
             },
             {
                 "ingredientName": "greek yogurt",
-                "qty": "1/2 cup",
-                "qty (gr)": 120,
+                "volume": "1/2 cup",
+                "weight": 120,
                 "notes": ""
             },
             {
                 "ingredientName": "almonds",
-                "qty": "1/4 cup",
-                "qty (gr)": 30,
+                "volume": "1/4 cup",
+                "weight": 30,
                 "notes": ""
             },
             {
                 "ingredientName": "coconut flakes",
-                "qty": "2 tbsp",
-                "qty (gr)": 12,
+                "volume": "2 tbsp",
+                "weight": 12,
                 "notes": ""
             },
             {
                 "ingredientName": "adhesive labels 5.5",
-                "qty": 1,
-                "qty (gr)": 1,
+                "volume": 1,
+                "weight": 1,
                 "notes": ""
             },
             {
                 "ingredientName": "small bags (15x35)",
-                "qty": 1,
-                "qty (gr)": 1,
+                "volume": 1,
+                "weight": 1,
                 "notes": ""
             },
             {
                 "ingredientName": "glass jar 500ml",
-                "qty": 1,
-                "qty (gr)": 1,
+                "volume": 1,
+                "weight": 1,
                 "notes": ""
             }
         ]

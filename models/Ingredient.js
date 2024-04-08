@@ -9,27 +9,27 @@ const IngredientSchema = new mongoose.Schema(
     },
     type: {
       type: String,
-      required: [true, "Please, enter a type"],
+      // required: [true, "Please, enter a type"],
     },
     provider: {
       type: String,
-      required: [true, "Please, enter a provider"],
+      // required: [true, "Please, enter a provider"],
     },
     brand: {
       type: String,
-      required: [true, "Please, enter a brand"],
+      // required: [true, "Please, enter a brand"],
     },
     presentation: {
       type: Number,
-      required: [true, "Please, enter presentation data"],
+      // required: [true, "Please, enter presentation data"],
     },
     measure: {
       type: Number,
-      required: [true, "Please, enter measure"],
+      // required: [true, "Please, enter measure"],
     },
     cost: {
       type: Number,
-      required: [true, "Please, enter a cost"],
+      // required: [true, "Please, enter a cost"],
     },
     note: {
       type: String,

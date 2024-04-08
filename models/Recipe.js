@@ -15,7 +15,24 @@ const RecipeSchema = new mongoose.Schema(
       type: Number,
       required: [true, "Please, enter presentation data"],
     },
-    ingredients: [{ ingredient: { type: ObjectId, ref: "Ingredient" }, qty: { type: Number, required: [true, "Please, enter a quantity"] } }],
+    ingredients: [
+      {
+        ingredient: {
+          type: ObjectId,
+          ref: "Ingredient"
+        },
+        volume: {
+          type: String,
+        },
+        weight: {
+          type: Number,
+          required: [true, "Please, enter a quantity"]
+        },
+        note: {
+          type: String,
+        },
+      }
+    ],
     instructions: {
       type: String, maxLength: 1000
     },

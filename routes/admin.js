@@ -8,5 +8,7 @@ router.post("/createIngredientsFromJson", authentication, isAdmin, AdminControll
 router.delete("/deleteAllIngredients", authentication, isAdmin, AdminController.deleteAllIngredients);
 router.delete("/deleteAllRecipes", authentication, isAdmin, AdminController.deleteAllRecipes);
 router.post("/organizeRecipes", AdminController.organizeRecipes);
+router.post("/updateRecipesWithIngredientIds", AdminController.updateRecipesWithIngredientIds);
+router.post("/updateIngredientsToLowercase", AdminController.updateIngredientsToLowercase);
 
 module.exports = router;
